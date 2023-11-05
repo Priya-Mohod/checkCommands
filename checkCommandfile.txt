@@ -1,6 +1,6 @@
 
 hello Tushar,
 
-checking git commands
+checking git commands.
 
 1. git init 
