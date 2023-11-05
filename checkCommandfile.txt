@@ -1,0 +1,6 @@
+
+hello Tushar,
+
+checking git commands
+
+1. git init https://github.com/Priya-Mohod/checkCommands.git
